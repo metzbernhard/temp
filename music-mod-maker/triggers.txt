@@ -1,0 +1,17 @@
+culture
+culture_group
+religion_group
+is_year
+is_at_war
+is_part_of_hre
+num_of_colonists
+real_month_of_year
+has_country_modifier
+has_regency
+any_owned_province
+government
+tag
+war_with
+owns
+technology_group
+capital_scope 

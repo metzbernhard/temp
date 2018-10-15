@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.VBox?>
+
+<VBox prefHeight="450.0" prefWidth="612.0" xmlns="http://javafx.com/javafx/8.0.141" xmlns:fx="http://javafx.com/fxml/1" />
+<children>
+<TitledPane animated="false" maxHeight="450.0" minHeight="450.0" prefHeight="450.0" text="Select Songs and Triggers">
+               <content>
+                  <GridPane>
+                    <columnConstraints>
+                        <ColumnConstraints hgrow="SOMETIMES" maxWidth="295.0" minWidth="295.0" prefWidth="295.0" />
+                      <ColumnConstraints hgrow="SOMETIMES" maxWidth="10.0" minWidth="10.0" prefWidth="10.0" />
+                      <ColumnConstraints hgrow="SOMETIMES" maxWidth="285.0" minWidth="285.0" prefWidth="285.0" />
+                    </columnConstraints>
+                    <rowConstraints>
+                        <RowConstraints minHeight="40.0" prefHeight="20.0" vgrow="SOMETIMES" />
+                        <RowConstraints maxHeight="115.0" minHeight="115.0" prefHeight="115.0" vgrow="SOMETIMES" />
+                        <RowConstraints maxHeight="40.0" minHeight="40.0" prefHeight="40.0" vgrow="SOMETIMES" />
+                        <RowConstraints maxHeight="165.0" minHeight="165.0" prefHeight="165.0" vgrow="SOMETIMES" />
+                      <RowConstraints minHeight="40.0" prefHeight="20.0" vgrow="SOMETIMES" />
+                    </rowConstraints>
+                     <children>
+                        <AnchorPane prefHeight="400.0" prefWidth="309.0" GridPane.rowSpan="5">
+                           <children>
+                              <ListView fx:id="selectedSongList" layoutX="10.0" layoutY="44.0" prefHeight="346.0" prefWidth="281.0" AnchorPane.bottomAnchor="10.0" AnchorPane.leftAnchor="9.0" AnchorPane.rightAnchor="10.0" AnchorPane.topAnchor="44.0" />
+                              <Button layoutX="10.0" layoutY="10.0" mnemonicParsing="false" onAction="#selectSongs" prefWidth="100.0" text="Add Songs..." />
+                              <Button layoutX="210.0" layoutY="10.0" mnemonicParsing="false" onAction="#clearSongSelectionList" prefWidth="70.0" text="Clear" />
+                              <Button layoutX="125.0" layoutY="10.0" mnemonicParsing="false" onAction="#removeSong" prefWidth="70.0" text="Remove" />
+                           </children>
+                        </AnchorPane>
+                        <AnchorPane GridPane.columnIndex="2">
+                           <children>
+                              <CheckBox fx:id="checkNoTriggers" layoutX="5.0" layoutY="10.0" mnemonicParsing="false" text="Just Factor, without modifiers/triggers">
+                                 <font>
+                                    <Font size="13.0" />
+                                 </font>
+                              </CheckBox>
+                           </children>
+                        </AnchorPane>
+                        <AnchorPane fx:id="triggerSettingsPane" layoutX="10.0" prefHeight="334.0" prefWidth="280.0" GridPane.columnIndex="2" GridPane.rowIndex="1">
+                           <children>
+                              <ComboBox fx:id="cbxTrigger" layoutX="5.0" layoutY="25.0" prefHeight="20.0" prefWidth="270.0" />
+                              <ComboBox fx:id="cbxParam" layoutX="5.0" layoutY="55.0" prefHeight="20.0" prefWidth="270.0" />
+                              <CheckBox fx:id="checkNot" layoutX="5.0" mnemonicParsing="false" text="NOT">
+                                 <font>
+                                    <Font size="13.0" />
+                                 </font>
+                              </CheckBox>
+                              <TextField fx:id="textParam" layoutX="5.0" layoutY="85.0" prefWidth="270.0" promptText="for 'owns' and 'has_country_modifier'">
+                                 <font>
+                                    <Font size="13.0" />
+                                 </font>
+                              </TextField>
+                           </children>
+                        </AnchorPane>
+                        <AnchorPane fx:id="factorPane" maxHeight="40.0" minHeight="40.0" prefHeight="40.0" prefWidth="285.0" GridPane.columnIndex="2" GridPane.rowIndex="2">
+                           <children>
+                              <TextField fx:id="txtFactor" layoutX="51.0" layoutY="7.0" prefHeight="20.0" prefWidth="40.0" promptText="1.5" />
+                              <Label layoutX="5.0" layoutY="10.0" text="Factor:">
+                                 <font>
+                                    <Font size="14.0" />
+                                 </font>
+                              </Label>
+                              <Label layoutX="100.0" layoutY="2.0" maxWidth="175.0" text="reference: 0=never, 1=normal, 2=double probability" textOverrun="CENTER_WORD_ELLIPSIS" wrapText="true">
+                                 <font>
+                                    <Font size="13.0" />
+                                 </font>
+                              </Label>
+                           </children>
+                        </AnchorPane>
+                        <AnchorPane fx:id="triggerListPane" GridPane.columnIndex="2" GridPane.rowIndex="3">
+                           <children>
+                              <ListView fx:id="triggerList" layoutX="5.0" layoutY="35.0" prefHeight="129.0" prefWidth="270.0" />
+                              <Button layoutX="5.0" layoutY="5.0" mnemonicParsing="false" onAction="#addTriggerToList" prefWidth="100.0" text="Add Trigger" />
+                              <Button layoutX="115.0" layoutY="5.0" mnemonicParsing="false" onAction="#addTriggerToList" prefWidth="75.0" text="Remove" />
+                              <Button layoutX="200.0" layoutY="5.0" mnemonicParsing="false" onAction="#addTriggerToList" prefWidth="75.0" text="Clear" />
+                           </children>
+                        </AnchorPane>
+                        <AnchorPane GridPane.columnIndex="2" GridPane.rowIndex="4">
+                           <children>
+                              <Button layoutX="5.0" layoutY="10.0" mnemonicParsing="false" onAction="#addSongs" prefWidth="270.0" text="Add Songs to Song List" />
+                           </children>
+                        </AnchorPane>
+                        <Separator layoutX="5.0" maxHeight="1.7976931348623157E308" orientation="VERTICAL" prefHeight="195.0" valignment="BOTTOM" GridPane.columnIndex="1" GridPane.rowSpan="5" />
+                     </children>
+                  </GridPane>
+               </content>
+            </TitledPane>
+       </children>

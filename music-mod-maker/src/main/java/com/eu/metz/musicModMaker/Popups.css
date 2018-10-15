@@ -1,0 +1,17 @@
+.dialog-pane {
+    -fx-font-size: 15px;
+    
+}
+
+.dialog-pane .text {
+	-fx-text-alignment: justify;
+}
+
+.dialog-pane .label {
+    -fx-text-fill: #164194;
+}
+
+
+.dialog-pane:header .header-panel .label {
+    -fx-font-size: 1.5em;
+}

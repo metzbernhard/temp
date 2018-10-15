@@ -1,0 +1,631 @@
+2018-09-12 09:29:20 DEBUG MainController:142 - New Node :NOT any_owned_province continent = africa TextField[id=txtFactor, styleClass=text-input text-field]
+2018-09-12 09:31:16 DEBUG MainController:143 - New Node :NOT any_owned_province continent = africa TextField[id=txtFactor, styleClass=text-input text-field]
+2018-09-12 09:31:47 DEBUG MainController:142 - New Node :NOT any_owned_province continent = africa  TextField[id=txtFactor, styleClass=text-input text-field]
+2018-09-12 09:32:12 DEBUG MainController:142 - New Node :NOT any_owned_province continent = africa  1
+2018-09-12 09:33:19 DEBUG MainController:143 - New Node :null  
+2018-09-12 09:33:37 DEBUG MainController:143 - New Node :null  
+2018-09-12 09:35:33 DEBUG MainController:143 - New Node :null  
+2018-09-12 09:37:18 DEBUG MainController:142 - New Node :null  
+2018-09-12 09:37:54 DEBUG MainController:142 - New Node :NOT any_owned_province continent = africa  1
+2018-09-12 09:39:06 DEBUG MainController:142 - New Node :NOT+
+culture+
+abenaki+\n+\n2
+2018-09-12 09:39:38 DEBUG MainController:142 - New Node :NOT+has_regency+no++0
+2018-09-12 09:41:33 DEBUG MainController:142 - New Node :NOT+is_at_war+yes+0
+2018-09-12 09:41:56 DEBUG MainController:142 - New Node :NOT+is_at_war+yes+0
+2018-09-12 09:57:54 DEBUG MainController:142 - New Node :has_country_modifier+test+1
+2018-09-12 10:17:15 DEBUG MainController:186 - New Node :null+
+2018-09-12 10:17:21 DEBUG MainController:186 - New Node :NOT+any_owned_province+continent = africa+1
+2018-09-12 10:18:28 DEBUG MainController:189 - New Node :any_owned_province+continent = africa+1
+2018-09-12 10:18:58 DEBUG MainController:188 - New Node :NOT+any_owned_province+continent = africa+1
+2018-09-12 10:19:12 DEBUG MainController:188 - New Node :any_owned_province+continent = africa+2
+2018-09-12 10:21:07 DEBUG MainController:186 - New Node :any_owned_province+continent = america+1
+2018-09-12 10:21:32 DEBUG MainController:186 - New Node :NOT+any_owned_province+continent = africa+2
+2018-09-12 10:21:37 DEBUG MainController:186 - New Node :any_owned_province+continent = america+0
+2018-09-14 08:44:36 DEBUG GUI:35 - Application Launch
+2018-09-14 08:45:35 DEBUG GUI:35 - Application Launch
+2018-09-14 08:45:38 DEBUG MainController:208 - Saving Mod
+2018-09-14 08:45:46 DEBUG MainController:200 - Creating new Mod: Sing a long
+2018-09-14 08:45:46 DEBUG Mod:51 - Creating modfile sing_a_long.mod with name="Sing a long"
+path="mod/sing_a_long"
+tags={
+	"Music"
+}
+supported_version="1.26.*.*"
+2018-09-14 08:45:46 DEBUG Mod:75 - Creating Mod directory :sing_a_long
+2018-09-14 08:46:12 DEBUG MainController:208 - Saving Mod
+2018-09-14 08:46:12 DEBUG Mod:87 - Copying test - Kopie.ogg from D:\test - Kopie.ogg to sing_a_long\test - Kopie.ogg
+2018-09-14 08:46:12 DEBUG Mod:87 - Copying test.ogg from D:\test.ogg to sing_a_long\test.ogg
+2018-09-14 08:48:07 DEBUG GUI:35 - Application Launch
+2018-09-14 09:01:53 DEBUG GUI:35 - Application Launch
+2018-09-14 09:01:57 DEBUG MainController:204 - Creating new Mod: Sing a long
+2018-09-14 09:01:57 DEBUG Mod:49 - Creating modfile sing_a_long.mod with
+name="Sing a long"
+path="mod/sing_a_long"
+tags={
+	"Music"
+}
+supported_version="1.26.*.*"
+2018-09-14 09:01:57 DEBUG Mod:79 - Creating Mod directory :sing_a_long
+2018-09-14 09:02:10 DEBUG MainController:213 - Saving Mod
+2018-09-14 09:02:10 DEBUG Mod:102 - Copying test - Kopie.ogg from D:\test - Kopie.ogg to sing_a_long\test - Kopie.ogg
+2018-09-14 09:02:10 DEBUG Mod:102 - Copying test.ogg from D:\test.ogg to sing_a_long\test.ogg
+2018-09-14 09:23:42 DEBUG GUI:35 - Application Launch
+2018-09-14 09:23:53 DEBUG MainController:204 - Creating new Mod: Sing a long
+2018-09-14 09:23:53 DEBUG Mod:49 - Creating modfile sing_a_long.mod with
+name="Sing a long"
+path="mod/sing_a_long"
+tags={
+	"Music"
+}
+supported_version="1.26.*.*"
+2018-09-14 09:23:53 DEBUG Mod:79 - Creating Mod directory :sing_a_long
+2018-09-14 09:23:55 DEBUG MainController:213 - Saving Mod
+2018-09-14 09:23:55 DEBUG Mod:112 - Copying test - Kopie.ogg from D:\test - Kopie.ogg to sing_a_long\test - Kopie.ogg
+2018-09-14 09:23:55 DEBUG Mod:112 - Copying test.ogg from D:\test.ogg to sing_a_long\test.ogg
+2018-09-14 10:03:00 DEBUG GUI:35 - Application Launch
+2018-09-14 10:11:54 DEBUG GUI:35 - Application Launch
+2018-09-14 10:11:58 DEBUG MainController:204 - Creating new Mod: Sing a long
+2018-09-14 10:11:58 DEBUG Mod:49 - Creating modfile sing_a_long.mod with
+name="Sing a long"
+path="mod/sing_a_long"
+tags={
+	"Music"
+}
+supported_version="1.26.*.*"
+2018-09-14 10:11:59 DEBUG Mod:79 - Creating Mod directory :sing_a_long
+2018-09-14 10:12:13 DEBUG MainController:213 - Saving Mod
+2018-09-14 10:12:13 DEBUG Mod:123 - Copying test - Kopie.ogg from D:\test - Kopie.ogg to sing_a_long\test - Kopie.ogg
+2018-09-14 10:12:13 DEBUG Mod:123 - Copying test.ogg from D:\test.ogg to sing_a_long\test.ogg
+2018-09-14 10:12:13 DEBUG Asset:29 - Writing content to asset file: sing_a_long\music_asset
+2018-09-14 10:12:13 DEBUG SongsTXT:26 - Starting content for songs.txt
+2018-09-14 10:12:13 DEBUG SongsTXT:103 - Songstart String: song = { 	name = "test - Kopie"  		chance = { 		factor = 1 
+2018-09-14 10:12:13 DEBUG SongsTXT:103 - Songstart String: song = { 	name = "test"  		chance = { 		factor = 1 
+2018-09-14 10:12:13 DEBUG SongsTXT:51 - Writing content to txt file: sing_a_long\sing_a_long.txt
+2018-09-14 10:14:45 DEBUG GUI:35 - Application Launch
+2018-09-14 10:14:57 DEBUG MainController:204 - Creating new Mod: Sing a long
+2018-09-14 10:14:57 DEBUG Mod:49 - Creating modfile sing_a_long.mod with
+name="Sing a long"
+path="mod/sing_a_long"
+tags={
+	"Music"
+}
+supported_version="1.26.*.*"
+2018-09-14 10:14:57 DEBUG Mod:79 - Creating Mod directory :sing_a_long
+2018-09-14 10:15:03 DEBUG MainController:213 - Saving Mod
+2018-09-14 10:15:03 DEBUG Mod:123 - Copying test - Kopie.ogg from D:\test - Kopie.ogg to sing_a_long\test - Kopie.ogg
+2018-09-14 10:15:04 DEBUG Mod:123 - Copying test.ogg from D:\test.ogg to sing_a_long\test.ogg
+2018-09-14 10:15:04 DEBUG Asset:29 - Writing content to asset file: sing_a_long\music_asset
+2018-09-14 10:15:04 DEBUG SongsTXT:26 - Starting content for songs.txt
+2018-09-14 10:15:04 DEBUG SongsTXT:102 - Songstart String: song = { 	name = "test - Kopie" 	 	chance = { 		factor = 1 
+2018-09-14 10:15:04 DEBUG SongsTXT:102 - Songstart String: song = { 	name = "test" 	 	chance = { 		factor = 1 
+2018-09-14 10:15:04 DEBUG SongsTXT:51 - Writing content to txt file: sing_a_long\sing_a_long.txt
+2018-09-14 10:15:52 DEBUG GUI:35 - Application Launch
+2018-09-14 10:16:40 DEBUG MainController:204 - Creating new Mod: Sing a long
+2018-09-14 10:16:40 DEBUG Mod:49 - Creating modfile sing_a_long.mod with
+name="Sing a long"
+path="mod/sing_a_long"
+tags={
+	"Music"
+}
+supported_version="1.26.*.*"
+2018-09-14 10:16:41 DEBUG Mod:79 - Creating Mod directory :sing_a_long
+2018-09-14 10:16:45 DEBUG MainController:213 - Saving Mod
+2018-09-14 10:16:45 DEBUG Mod:123 - Copying test - Kopie.ogg from D:\test - Kopie.ogg to sing_a_long\test - Kopie.ogg
+2018-09-14 10:16:45 DEBUG Mod:123 - Copying test.ogg from D:\test.ogg to sing_a_long\test.ogg
+2018-09-14 10:16:45 DEBUG Asset:29 - Writing content to asset file: sing_a_long\music_asset
+2018-09-14 10:16:45 DEBUG SongsTXT:26 - Starting content for songs.txt
+2018-09-14 10:16:45 DEBUG SongsTXT:102 - Songstart String: song = { 	name = "test - Kopie" 	 	chance = { 		factor = 1 
+2018-09-14 10:16:45 DEBUG SongsTXT:102 - Songstart String: song = { 	name = "test" 	 	chance = { 		factor = 1 
+2018-09-14 10:16:45 DEBUG SongsTXT:51 - Writing content to txt file: sing_a_long\sing_a_long.txt
+2018-09-14 10:17:57 DEBUG GUI:35 - Application Launch
+2018-09-14 10:18:01 DEBUG MainController:204 - Creating new Mod: Sing a long
+2018-09-14 10:18:01 DEBUG Mod:49 - Creating modfile sing_a_long.mod with
+name="Sing a long"
+path="mod/sing_a_long"
+tags={
+	"Music"
+}
+supported_version="1.26.*.*"
+2018-09-14 10:18:01 DEBUG Mod:79 - Creating Mod directory :sing_a_long
+2018-09-14 10:18:32 DEBUG MainController:213 - Saving Mod
+2018-09-14 10:18:32 DEBUG Mod:123 - Copying test - Kopie.ogg from D:\test - Kopie.ogg to sing_a_long\test - Kopie.ogg
+2018-09-14 10:18:32 DEBUG Mod:123 - Copying test.ogg from D:\test.ogg to sing_a_long\test.ogg
+2018-09-14 10:18:32 DEBUG Asset:29 - Writing content to asset file: sing_a_long\music_asset
+2018-09-14 10:18:32 DEBUG SongsTXT:26 - Starting content for songs.txt
+2018-09-14 10:18:32 DEBUG SongsTXT:102 - Songstart String: song = { 	name = "test - Kopie" 	 	chance = { 		factor = 1 
+2018-09-14 10:18:32 DEBUG SongsTXT:102 - Songstart String: song = { 	name = "test" 	 	chance = { 		factor = 1 
+2018-09-14 10:18:32 DEBUG SongsTXT:51 - Writing content to txt file: sing_a_long\sing_a_long.txt
+2018-09-14 10:20:06 DEBUG GUI:35 - Application Launch
+2018-09-14 10:20:15 DEBUG MainController:204 - Creating new Mod: Sing a long
+2018-09-14 10:20:15 DEBUG Mod:49 - Creating modfile sing_a_long.mod with
+name="Sing a long"
+path="mod/sing_a_long"
+tags={
+	"Music"
+}
+supported_version="1.26.*.*"
+2018-09-14 10:20:15 DEBUG Mod:79 - Creating Mod directory :sing_a_long
+2018-09-14 10:20:37 DEBUG MainController:213 - Saving Mod
+2018-09-14 10:20:37 DEBUG Mod:123 - Copying test - Kopie.ogg from D:\test - Kopie.ogg to sing_a_long\test - Kopie.ogg
+2018-09-14 10:20:38 DEBUG Mod:123 - Copying test.ogg from D:\test.ogg to sing_a_long\test.ogg
+2018-09-14 10:20:38 DEBUG Asset:29 - Writing content to asset file: sing_a_long\music_asset
+2018-09-14 10:20:38 DEBUG SongsTXT:26 - Starting content for songs.txt
+2018-09-14 10:20:38 DEBUG SongsTXT:102 - Songstart String: song = { 	name = "test - Kopie" 	 	chance = { 		factor = 1 
+2018-09-14 10:20:38 DEBUG SongsTXT:102 - Songstart String: song = { 	name = "test" 	 	chance = { 		factor = 1 
+2018-09-14 10:20:38 DEBUG SongsTXT:51 - Writing content to txt file: sing_a_long\sing_a_long.txt
+2018-09-14 10:28:15 DEBUG GUI:35 - Application Launch
+2018-09-14 10:28:38 DEBUG MainController:204 - Creating new Mod: Sing a long
+2018-09-14 10:28:38 DEBUG Mod:49 - Creating modfile sing_a_long.mod with
+name="Sing a long"
+path="mod/sing_a_long"
+tags={
+	"Music"
+}
+supported_version="1.26.*.*"
+2018-09-14 10:28:39 DEBUG Mod:79 - Creating Mod directory :sing_a_long
+2018-09-14 10:28:44 DEBUG MainController:213 - Saving Mod
+2018-09-14 10:28:44 DEBUG Asset:29 - Writing content to asset file: sing_a_long\music_asset
+2018-09-14 10:28:44 DEBUG SongsTXT:26 - Starting content for songs.txt
+2018-09-14 10:28:44 DEBUG SongsTXT:51 - Writing content to txt file: sing_a_long\sing_a_long.txt
+2018-09-14 10:29:20 DEBUG GUI:35 - Application Launch
+2018-09-14 10:29:25 DEBUG MainController:204 - Creating new Mod: Sing a long
+2018-09-14 10:29:25 DEBUG Mod:49 - Creating modfile sing_a_long.mod with
+name="Sing a long"
+path="mod/sing_a_long"
+tags={
+	"Music"
+}
+supported_version="1.26.*.*"
+2018-09-14 10:29:26 DEBUG Mod:79 - Creating Mod directory :sing_a_long
+2018-09-14 10:29:58 DEBUG MainController:213 - Saving Mod
+2018-09-14 10:29:58 DEBUG Mod:123 - Copying test - Kopie.ogg from D:\test - Kopie.ogg to sing_a_long\test - Kopie.ogg
+2018-09-14 10:29:59 DEBUG Mod:123 - Copying test.ogg from D:\test.ogg to sing_a_long\test.ogg
+2018-09-14 10:29:59 DEBUG Asset:29 - Writing content to asset file: sing_a_long\music_asset
+2018-09-14 10:29:59 DEBUG SongsTXT:26 - Starting content for songs.txt
+2018-09-14 10:29:59 DEBUG SongsTXT:102 - Songstart String: song = { 	name = "test - Kopie" 	 	chance = { 		factor = 1 
+2018-09-14 10:29:59 DEBUG SongsTXT:102 - Songstart String: song = { 	name = "test" 	 	chance = { 		factor = 1 
+2018-09-14 10:29:59 DEBUG SongsTXT:51 - Writing content to txt file: sing_a_long\sing_a_long.txt
+2018-09-14 10:31:09 DEBUG GUI:35 - Application Launch
+2018-09-14 10:31:17 DEBUG MainController:204 - Creating new Mod: Sing a long
+2018-09-14 10:31:17 DEBUG Mod:49 - Creating modfile sing_a_long.mod with
+name="Sing a long"
+path="mod/sing_a_long"
+tags={
+	"Music"
+}
+supported_version="1.26.*.*"
+2018-09-14 10:31:18 DEBUG Mod:79 - Creating Mod directory :sing_a_long
+2018-09-14 10:31:41 DEBUG MainController:213 - Saving Mod
+2018-09-14 10:31:41 DEBUG Mod:123 - Copying test - Kopie.ogg from D:\test - Kopie.ogg to sing_a_long\test - Kopie.ogg
+2018-09-14 10:31:41 DEBUG Mod:123 - Copying test.ogg from D:\test.ogg to sing_a_long\test.ogg
+2018-09-14 10:31:41 DEBUG Asset:29 - Writing content to asset file: sing_a_long\music_asset
+2018-09-14 10:31:41 DEBUG SongsTXT:26 - Starting content for songs.txt
+2018-09-14 10:31:41 DEBUG SongsTXT:104 - Songstart String: song = { 	name = "test - Kopie" 	 	chance = { 		factor = 1 
+2018-09-14 10:31:41 DEBUG SongsTXT:104 - Songstart String: song = { 	name = "test" 	 	chance = { 		factor = 1 
+2018-09-14 10:31:41 DEBUG SongsTXT:51 - Writing content to txt file: sing_a_long\sing_a_long.txt
+2018-09-14 10:32:31 DEBUG GUI:35 - Application Launch
+2018-09-14 10:32:53 DEBUG MainController:204 - Creating new Mod: Sing a long
+2018-09-14 10:32:53 DEBUG Mod:49 - Creating modfile sing_a_long.mod with
+name="Sing a long"
+path="mod/sing_a_long"
+tags={
+	"Music"
+}
+supported_version="1.26.*.*"
+2018-09-14 10:32:53 DEBUG Mod:79 - Creating Mod directory :sing_a_long
+2018-09-14 10:32:55 DEBUG MainController:213 - Saving Mod
+2018-09-14 10:32:55 DEBUG Asset:29 - Writing content to asset file: sing_a_long\music_asset
+2018-09-14 10:32:55 DEBUG SongsTXT:26 - Starting content for songs.txt
+2018-09-14 10:32:55 DEBUG SongsTXT:51 - Writing content to txt file: sing_a_long\sing_a_long.txt
+2018-09-14 10:33:07 DEBUG GUI:35 - Application Launch
+2018-09-14 10:33:37 DEBUG MainController:204 - Creating new Mod: Sing a long
+2018-09-14 10:33:37 DEBUG Mod:49 - Creating modfile sing_a_long.mod with
+name="Sing a long"
+path="mod/sing_a_long"
+tags={
+	"Music"
+}
+supported_version="1.26.*.*"
+2018-09-14 10:33:37 DEBUG Mod:79 - Creating Mod directory :sing_a_long
+2018-09-14 10:33:39 DEBUG MainController:213 - Saving Mod
+2018-09-14 10:33:39 DEBUG Mod:123 - Copying test - Kopie.ogg from D:\test - Kopie.ogg to sing_a_long\test - Kopie.ogg
+2018-09-14 10:33:39 DEBUG Mod:123 - Copying test.ogg from D:\test.ogg to sing_a_long\test.ogg
+2018-09-14 10:33:39 DEBUG Asset:29 - Writing content to asset file: sing_a_long\music_asset
+2018-09-14 10:33:39 DEBUG SongsTXT:26 - Starting content for songs.txt
+2018-09-14 10:33:39 DEBUG SongsTXT:104 - Songstart String: song = { 	name = "test - Kopie" 	 	chance = { 		factor = 1 
+2018-09-14 10:33:39 DEBUG SongsTXT:104 - Songstart String: song = { 	name = "test" 	 	chance = { 		factor = 1 
+2018-09-14 10:33:39 DEBUG SongsTXT:51 - Writing content to txt file: sing_a_long\sing_a_long.txt
+2018-09-14 10:50:52 DEBUG GUI:35 - Application Launch
+2018-09-14 10:50:56 DEBUG MainController:204 - Creating new Mod: Sing a long
+2018-09-14 10:50:56 DEBUG Mod:49 - Creating modfile sing_a_long.mod with
+name="Sing a long"
+path="mod/sing_a_long"
+tags={
+	"Music"
+}
+supported_version="1.26.*.*"
+2018-09-14 10:50:56 DEBUG Mod:79 - Creating Mod directory :sing_a_long
+2018-09-14 10:51:16 DEBUG MainController:213 - Saving Mod
+2018-09-14 10:51:16 DEBUG Mod:128 - Copying test - Kopie.ogg from D:\test - Kopie.ogg to sing_a_long\test - Kopie.ogg
+2018-09-14 10:51:16 DEBUG Mod:128 - Copying test.ogg from D:\test.ogg to sing_a_long\test.ogg
+2018-09-14 10:51:16 DEBUG Mod:102 - Creating music.asset file
+2018-09-14 10:51:16 DEBUG Asset:29 - Writing content to asset file: sing_a_long\music_asset
+2018-09-14 10:51:16 DEBUG SongsTXT:26 - Starting content for songs.txt
+2018-09-14 10:51:16 DEBUG SongsTXT:86 - Starting String for test - Kopie.ogg
+2018-09-14 10:51:16 DEBUG SongsTXT:86 - Starting String for test.ogg
+2018-09-14 10:51:16 DEBUG SongsTXT:59 - Writing content to txt file: sing_a_long\sing_a_long.txt
+2018-09-14 10:52:59 DEBUG GUI:35 - Application Launch
+2018-09-14 10:53:16 DEBUG MainController:204 - Creating new Mod: Sing a long
+2018-09-14 10:53:16 DEBUG Mod:49 - Creating modfile sing_a_long.mod with
+name="Sing a long"
+path="mod/sing_a_long"
+tags={
+	"Music"
+}
+supported_version="1.26.*.*"
+2018-09-14 10:53:16 DEBUG Mod:79 - Creating Mod directory :sing_a_long
+2018-09-14 10:53:17 DEBUG MainController:213 - Saving Mod
+2018-09-14 10:53:17 DEBUG Mod:128 - Copying test - Kopie.ogg from D:\test - Kopie.ogg to sing_a_long\test - Kopie.ogg
+2018-09-14 10:53:18 DEBUG Mod:128 - Copying test.ogg from D:\test.ogg to sing_a_long\test.ogg
+2018-09-14 10:53:18 DEBUG Mod:102 - Creating music.asset file
+2018-09-14 10:53:18 DEBUG Asset:29 - Writing content to asset file: sing_a_long\music_asset
+2018-09-14 10:53:18 DEBUG SongsTXT:26 - Starting content for songs.txt
+2018-09-14 10:53:18 DEBUG SongsTXT:86 - Starting String for test - Kopie.ogg
+2018-09-14 10:53:18 DEBUG SongsTXT:125 - #####################
+2018-09-14 10:53:18 DEBUG SongsTXT:132 - any_owned_province = {
+	continent = africa
+
+2018-09-14 10:53:18 DEBUG SongsTXT:134 - 			any_owned_province = {
+				continent = africa
+			
+2018-09-14 10:53:18 DEBUG SongsTXT:138 - 			NOT = {
+				any_owned_province = {
+					continent = africa
+							}
+2018-09-14 10:53:18 DEBUG SongsTXT:140 - 			NOT = {
+				any_owned_province = {
+					continent = africa
+							}
+		}
+2018-09-14 10:53:18 DEBUG SongsTXT:125 - #####################
+2018-09-14 10:53:18 DEBUG SongsTXT:132 - culture = {
+	abenaki
+
+2018-09-14 10:53:18 DEBUG SongsTXT:134 - 			culture = {
+				abenaki
+			
+2018-09-14 10:53:18 DEBUG SongsTXT:138 - 			culture = {
+				abenaki
+			
+2018-09-14 10:53:18 DEBUG SongsTXT:140 - 			culture = {
+				abenaki
+			
+		}
+2018-09-14 10:53:18 DEBUG SongsTXT:86 - Starting String for test.ogg
+2018-09-14 10:53:18 DEBUG SongsTXT:125 - #####################
+2018-09-14 10:53:18 DEBUG SongsTXT:132 - any_owned_province = {
+	continent = africa
+
+2018-09-14 10:53:18 DEBUG SongsTXT:134 - 			any_owned_province = {
+				continent = africa
+			
+2018-09-14 10:53:18 DEBUG SongsTXT:138 - 			NOT = {
+				any_owned_province = {
+					continent = africa
+							}
+2018-09-14 10:53:18 DEBUG SongsTXT:140 - 			NOT = {
+				any_owned_province = {
+					continent = africa
+							}
+		}
+2018-09-14 10:53:18 DEBUG SongsTXT:125 - #####################
+2018-09-14 10:53:18 DEBUG SongsTXT:132 - culture = {
+	abenaki
+
+2018-09-14 10:53:18 DEBUG SongsTXT:134 - 			culture = {
+				abenaki
+			
+2018-09-14 10:53:18 DEBUG SongsTXT:138 - 			culture = {
+				abenaki
+			
+2018-09-14 10:53:18 DEBUG SongsTXT:140 - 			culture = {
+				abenaki
+			
+		}
+2018-09-14 10:53:18 DEBUG SongsTXT:59 - Writing content to txt file: sing_a_long\sing_a_long.txt
+2018-09-14 10:54:07 DEBUG GUI:35 - Application Launch
+2018-09-14 10:54:14 DEBUG MainController:204 - Creating new Mod: Sing a long
+2018-09-14 10:54:14 DEBUG Mod:49 - Creating modfile sing_a_long.mod with
+name="Sing a long"
+path="mod/sing_a_long"
+tags={
+	"Music"
+}
+supported_version="1.26.*.*"
+2018-09-14 10:54:14 DEBUG Mod:79 - Creating Mod directory :sing_a_long
+2018-09-14 10:54:32 DEBUG MainController:213 - Saving Mod
+2018-09-14 10:54:32 DEBUG Mod:128 - Copying test - Kopie.ogg from D:\test - Kopie.ogg to sing_a_long\test - Kopie.ogg
+2018-09-14 10:54:32 DEBUG Mod:128 - Copying test.ogg from D:\test.ogg to sing_a_long\test.ogg
+2018-09-14 10:54:32 DEBUG Mod:102 - Creating music.asset file
+2018-09-14 10:54:32 DEBUG Asset:29 - Writing content to asset file: sing_a_long\music_asset
+2018-09-14 10:54:33 DEBUG SongsTXT:26 - Starting content for songs.txt
+2018-09-14 10:54:33 DEBUG SongsTXT:86 - Starting String for test - Kopie.ogg
+2018-09-14 10:54:33 DEBUG SongsTXT:125 - #####################
+2018-09-14 10:54:33 DEBUG SongsTXT:132 - 
+any_owned_province = {
+	continent = africa
+
+~~~~~~~~~~~~~
+
+2018-09-14 10:54:33 DEBUG SongsTXT:134 - 
+			any_owned_province = {
+				continent = africa
+			
+~~~~~~~~~~~~~
+
+2018-09-14 10:54:33 DEBUG SongsTXT:138 - 
+			NOT = {
+				any_owned_province = {
+					continent = africa
+							}
+~~~~~~~~~~~~~
+
+2018-09-14 10:54:33 DEBUG SongsTXT:140 - 
+			NOT = {
+				any_owned_province = {
+					continent = africa
+							}
+		}
+~~~~~~~~~~~~~
+
+2018-09-14 10:54:33 DEBUG SongsTXT:125 - #####################
+2018-09-14 10:54:33 DEBUG SongsTXT:132 - 
+culture_group = {
+	altaic
+
+~~~~~~~~~~~~~
+
+2018-09-14 10:54:33 DEBUG SongsTXT:134 - 
+			culture_group = {
+				altaic
+			
+~~~~~~~~~~~~~
+
+2018-09-14 10:54:33 DEBUG SongsTXT:138 - 
+			culture_group = {
+				altaic
+			
+~~~~~~~~~~~~~
+
+2018-09-14 10:54:33 DEBUG SongsTXT:140 - 
+			culture_group = {
+				altaic
+			
+		}
+~~~~~~~~~~~~~
+
+2018-09-14 10:54:33 DEBUG SongsTXT:86 - Starting String for test.ogg
+2018-09-14 10:54:33 DEBUG SongsTXT:125 - #####################
+2018-09-14 10:54:33 DEBUG SongsTXT:132 - 
+any_owned_province = {
+	continent = africa
+
+~~~~~~~~~~~~~
+
+2018-09-14 10:54:33 DEBUG SongsTXT:134 - 
+			any_owned_province = {
+				continent = africa
+			
+~~~~~~~~~~~~~
+
+2018-09-14 10:54:33 DEBUG SongsTXT:138 - 
+			NOT = {
+				any_owned_province = {
+					continent = africa
+							}
+~~~~~~~~~~~~~
+
+2018-09-14 10:54:33 DEBUG SongsTXT:140 - 
+			NOT = {
+				any_owned_province = {
+					continent = africa
+							}
+		}
+~~~~~~~~~~~~~
+
+2018-09-14 10:54:33 DEBUG SongsTXT:125 - #####################
+2018-09-14 10:54:33 DEBUG SongsTXT:132 - 
+culture_group = {
+	altaic
+
+~~~~~~~~~~~~~
+
+2018-09-14 10:54:33 DEBUG SongsTXT:134 - 
+			culture_group = {
+				altaic
+			
+~~~~~~~~~~~~~
+
+2018-09-14 10:54:33 DEBUG SongsTXT:138 - 
+			culture_group = {
+				altaic
+			
+~~~~~~~~~~~~~
+
+2018-09-14 10:54:33 DEBUG SongsTXT:140 - 
+			culture_group = {
+				altaic
+			
+		}
+~~~~~~~~~~~~~
+
+2018-09-14 10:54:33 DEBUG SongsTXT:59 - Writing content to txt file: sing_a_long\sing_a_long.txt
+2018-09-14 10:57:39 DEBUG GUI:35 - Application Launch
+2018-09-14 11:08:48 DEBUG GUI:35 - Application Launch
+2018-09-14 11:08:54 DEBUG MainController:204 - Creating new Mod: Sing a long
+2018-09-14 11:08:54 DEBUG Mod:49 - Creating modfile sing_a_long.mod with
+name="Sing a long"
+path="mod/sing_a_long"
+tags={
+	"Music"
+}
+supported_version="1.26.*.*"
+2018-09-14 11:08:54 DEBUG Mod:79 - Creating Mod directory :sing_a_long
+2018-09-14 11:09:15 DEBUG MainController:213 - Saving Mod
+2018-09-14 11:09:15 DEBUG Mod:128 - Copying test - Kopie.ogg from D:\test - Kopie.ogg to sing_a_long\test - Kopie.ogg
+2018-09-14 11:09:16 DEBUG Mod:128 - Copying test.ogg from D:\test.ogg to sing_a_long\test.ogg
+2018-09-14 11:09:16 DEBUG Mod:102 - Creating music.asset file
+2018-09-14 11:09:16 DEBUG Asset:29 - Writing content to asset file: sing_a_long\music_asset
+2018-09-14 11:09:16 DEBUG SongsTXT:26 - Starting content for songs.txt
+2018-09-14 11:09:16 DEBUG SongsTXT:86 - Starting String for test - Kopie.ogg
+2018-09-14 11:09:16 DEBUG SongsTXT:125 - #####################
+2018-09-14 11:09:16 DEBUG SongsTXT:132 - 
+any_owned_province = {
+	continent = africa
+}
+~~~~~~~~~~~~~
+
+2018-09-14 11:09:16 DEBUG SongsTXT:134 - 
+			any_owned_province = {
+				continent = africa
+			}
+~~~~~~~~~~~~~
+
+2018-09-14 11:09:16 DEBUG SongsTXT:138 - 
+			NOT = {
+				any_owned_province = {
+					continent = africa
+				}}
+~~~~~~~~~~~~~
+
+2018-09-14 11:09:16 DEBUG SongsTXT:140 - 
+			NOT = {
+				any_owned_province = {
+					continent = africa
+				}}
+		}
+~~~~~~~~~~~~~
+
+2018-09-14 11:09:16 DEBUG SongsTXT:125 - #####################
+2018-09-14 11:09:16 DEBUG SongsTXT:132 - 
+culture = {
+	abenaki
+}
+~~~~~~~~~~~~~
+
+2018-09-14 11:09:16 DEBUG SongsTXT:134 - 
+			culture = {
+				abenaki
+			}
+~~~~~~~~~~~~~
+
+2018-09-14 11:09:16 DEBUG SongsTXT:138 - 
+			culture = {
+				abenaki
+			}
+~~~~~~~~~~~~~
+
+2018-09-14 11:09:16 DEBUG SongsTXT:140 - 
+			culture = {
+				abenaki
+			}
+		}
+~~~~~~~~~~~~~
+
+2018-09-14 11:09:16 DEBUG SongsTXT:86 - Starting String for test.ogg
+2018-09-14 11:09:16 DEBUG SongsTXT:125 - #####################
+2018-09-14 11:09:16 DEBUG SongsTXT:132 - 
+any_owned_province = {
+	continent = africa
+}
+~~~~~~~~~~~~~
+
+2018-09-14 11:09:16 DEBUG SongsTXT:134 - 
+			any_owned_province = {
+				continent = africa
+			}
+~~~~~~~~~~~~~
+
+2018-09-14 11:09:16 DEBUG SongsTXT:138 - 
+			NOT = {
+				any_owned_province = {
+					continent = africa
+				}}
+~~~~~~~~~~~~~
+
+2018-09-14 11:09:16 DEBUG SongsTXT:140 - 
+			NOT = {
+				any_owned_province = {
+					continent = africa
+				}}
+		}
+~~~~~~~~~~~~~
+
+2018-09-14 11:09:16 DEBUG SongsTXT:125 - #####################
+2018-09-14 11:09:16 DEBUG SongsTXT:132 - 
+culture = {
+	abenaki
+}
+~~~~~~~~~~~~~
+
+2018-09-14 11:09:16 DEBUG SongsTXT:134 - 
+			culture = {
+				abenaki
+			}
+~~~~~~~~~~~~~
+
+2018-09-14 11:09:16 DEBUG SongsTXT:138 - 
+			culture = {
+				abenaki
+			}
+~~~~~~~~~~~~~
+
+2018-09-14 11:09:16 DEBUG SongsTXT:140 - 
+			culture = {
+				abenaki
+			}
+		}
+~~~~~~~~~~~~~
+
+2018-09-14 11:09:16 DEBUG SongsTXT:59 - Writing content to txt file: sing_a_long\sing_a_long.txt
+2018-09-14 11:10:11 DEBUG GUI:35 - Application Launch
+2018-09-14 11:11:02 DEBUG MainController:204 - Creating new Mod: Sing a long
+2018-09-14 11:11:02 DEBUG Mod:49 - Creating modfile sing_a_long.mod with
+name="Sing a long"
+path="mod/sing_a_long"
+tags={
+	"Music"
+}
+supported_version="1.26.*.*"
+2018-09-14 11:11:02 DEBUG Mod:79 - Creating Mod directory :sing_a_long
+2018-09-14 11:11:05 DEBUG MainController:213 - Saving Mod
+2018-09-14 11:11:05 DEBUG Mod:128 - Copying test - Kopie.ogg from D:\test - Kopie.ogg to sing_a_long\test - Kopie.ogg
+2018-09-14 11:11:05 DEBUG Mod:128 - Copying test.ogg from D:\test.ogg to sing_a_long\test.ogg
+2018-09-14 11:11:05 DEBUG Mod:102 - Creating music.asset file
+2018-09-14 11:11:05 DEBUG Asset:29 - Writing content to asset file: sing_a_long\music_asset
+2018-09-14 11:11:05 DEBUG SongsTXT:26 - Starting content for songs.txt
+2018-09-14 11:11:05 DEBUG SongsTXT:86 - Starting String for test - Kopie.ogg
+2018-09-14 11:11:05 DEBUG SongsTXT:86 - Starting String for test.ogg
+2018-09-14 11:11:05 DEBUG SongsTXT:59 - Writing content to txt file: sing_a_long\sing_a_long.txt
+2018-09-14 11:23:27 DEBUG GUI:35 - Application Launch
+2018-09-14 11:23:50 DEBUG MainController:208 - Creating new Mod: Sing a long
+2018-09-14 11:23:50 DEBUG Mod:49 - Creating modfile sing_a_long.mod with
+name="Sing a long"
+path="mod/sing_a_long"
+tags={
+	"Music"
+}
+supported_version="1.26.*.*"
+2018-09-14 11:23:50 DEBUG Mod:79 - Creating Mod directory :sing_a_long
+2018-09-14 11:25:22 DEBUG GUI:35 - Application Launch
+2018-09-14 11:25:31 DEBUG GUI:35 - Application Launch
+2018-09-14 11:25:36 DEBUG MainController:208 - Creating new Mod: Sing a long
+2018-09-14 11:25:36 DEBUG Mod:49 - Creating modfile sing_a_long.mod with
+name="Sing a long"
+path="mod/sing_a_long"
+tags={
+	"Music"
+}
+supported_version="1.26.*.*"
+2018-09-14 11:25:36 DEBUG Mod:79 - Creating Mod directory :sing_a_long

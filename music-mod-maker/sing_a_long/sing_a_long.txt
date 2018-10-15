@@ -1,0 +1,46 @@
+song = {
+	name = "test - Kopie"
+	
+	chance = {
+		factor = 1
+
+		modifier = {
+			factor = 2
+			NOT = {
+				any_owned_province = {
+					continent = africa
+				}
+			}
+		}
+		modifier = {
+			factor = 1
+			culture_group = {
+				african
+			}
+		}
+	}
+}
+
+song = {
+	name = "test"
+	
+	chance = {
+		factor = 1
+
+		modifier = {
+			factor = 2
+			NOT = {
+				any_owned_province = {
+					continent = africa
+				}
+			}
+		}
+		modifier = {
+			factor = 1
+			culture_group = {
+				african
+			}
+		}
+	}
+}
+
